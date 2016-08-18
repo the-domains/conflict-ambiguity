@@ -6,9 +6,9 @@ color:
   saturation: 0.670082698808983
   rhythmicContrast: 0.6857613022439182
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Conflict & Ambiguity
